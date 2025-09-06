@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Saihil!
 
-<!--
-**ST10294145/ST10294145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student** passionate about building real-world solutions using modern programming languages and frameworks.
 
-Here are some ideas to get you started:
+## 🛠️ Top Skills
+- **C# & .NET Framework**: Experienced in backend development and desktop applications.
+- **Kotlin**: Building mobile apps and exploring multiplatform possibilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 
+- [MunicipalServicesApp](https://github.com/ST10294145/MunicipalServicesApp): Streamlining city services for everyone.
+- [DateSpotter](https://github.com/ST10294145/DateSpotter): Discover and share the best local spots.
+
+## 💡 About Me
+- Always learning and experimenting with new technologies
+- Interested in building apps that make a difference
+
+---
+
+*Let’s connect and build something amazing!*
