@@ -16,6 +16,10 @@
 ## 💡 About Me
 - Always learning and experimenting with new technologies
 - Interested in building apps that make a difference
+  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact&theme=radical)
+ ![GitHub Streak](https://streak-stats.demolab.com?user=ST10294145&theme=radical)
+  
 
 ---
 
