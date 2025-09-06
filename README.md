@@ -31,7 +31,15 @@
   <img src="https://img.shields.io/badge/RoomDB-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="RoomDB"/>
 </p>
   
+## 💻 Programming Languages
 
+<p align="center">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL"/>
+</p>
 ---
-
 *Let’s connect and build something amazing!*
