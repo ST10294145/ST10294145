@@ -19,6 +19,17 @@
   
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact&theme=radical)
  ![GitHub Streak](https://streak-stats.demolab.com?user=ST10294145&theme=radical)
+
+## 🗄️ Databases I've Worked With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/SSMS-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" alt="SSMS"/>
+  <img src="https://img.shields.io/badge/SQL%20Workbench-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="SQL Workbench"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/RoomDB-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="RoomDB"/>
+</p>
   
 
 ---
