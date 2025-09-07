@@ -8,25 +8,24 @@
 
 ---
 
-## 🚀 Top Projets I've contributed to:
+## 🚀 Top Projects I've Contributed To
 
 ### 🪴 AgriEnergy Connect
-[![View Repository](https://img.shields.io/static/v1?label=Repo&message=View&color=blue)](https://github.com/ST10294145/AgriEnergyConnect.git">AgriEnergyConnect)
-> A way to connect agriculture sectors:
+[![View Repo](https://img.shields.io/badge/View-Repo-green?style=for-the-badge&logo=github)](https://github.com/ST10294145/AgriEnergyConnect)
+> A way to connect agriculture sectors.
 
 ---
 
 ### 🔒 Money Lock
-[![View Repository](https://img.shields.io/static/v1?label=Repo&message=View&color=blue)](https://github.com/ST10294145/Money-Lock.git)
-> A mobile budgetting app:
+[![View Repo](https://img.shields.io/badge/View-Repo-orange?style=for-the-badge&logo=github)](https://github.com/ST10294145/Money-Lock)
+> A mobile budgeting app.
 
 ---
 
 ### 🏛️ Khumalo Craft
-[![View Repository](https://img.shields.io/static/v1?label=Repo&message=View&color=blue)](https://github.com/ST10294145/NewKhumaloCraft.git)
-> A website where art work is sold:
----
-</details>
+[![View Repo](https://img.shields.io/badge/View-Repo-purple?style=for-the-badge&logo=github)](https://github.com/ST10294145/NewKhumaloCraft)
+> A website where artwork is sold.
+
 
 
 ## 💡 About Me
