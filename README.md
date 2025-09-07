@@ -2,6 +2,14 @@
 
 🎓 **Student** passionate about building real-world solutions using modern programming languages and frameworks.
 
+## 💡 About Me
+I am a Computer Science student with a strong academic record, including 9 distinctions, and a proven track record of leadership through programs such as Dale Carnegie and the JA Company Top 10 recognition. I excel at bridging technical expertise with business-oriented thinking, enabling me to contribute to product development, teamwork, and problem-solving in dynamic environments.
+
+My strengths lie in leadership, collaboration, and communication, which I have demonstrated in both academic and extracurricular settings. I am an adaptable learner who thrives in fast-paced environments and is committed to continuous growth and innovation.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact&theme=radical)
+ ![GitHub Streak](https://streak-stats.demolab.com?user=ST10294145&theme=radical)
+
 ## 🛠️ Top Skills
 - **C# & .NET Framework**: Experienced in MVC websites and backend development.
 - **Kotlin**: Building mobile apps and exploring multiplatform possibilities.
@@ -28,12 +36,9 @@
 
 ---
 
-## 💡 About Me
-- Always learning and experimenting with new technologies
-- Interested in building apps that make a difference
+
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact&theme=radical)
- ![GitHub Streak](https://streak-stats.demolab.com?user=ST10294145&theme=radical)
+ 
   
 ## 💻 Languages and Tools I've Worked With:
 
