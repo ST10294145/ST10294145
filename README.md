@@ -8,9 +8,9 @@
 
 ## 🚀 Featured Projects
 
-- [Khumalo Craft](https://github.com/ST10294145/NewKhumaloCraft.git): A website used to sell art work.
 - [AgriEnergyConnect](https://github.com/ST10294145/AgriEnergyConnect.git): A way to connect agriculture sectors.
 - [Money Lock](https://github.com/ST10294145/Money-Lock.git): A mobile budgetting app.
+- [Khumalo Craft](https://github.com/ST10294145/NewKhumaloCraft.git): A website used to sell art work.
   
 
 ## 💡 About Me
