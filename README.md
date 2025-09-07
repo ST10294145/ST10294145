@@ -6,20 +6,28 @@
 - **C# & .NET Framework**: Experienced in MVC websites and backend development.
 - **Kotlin**: Building mobile apps and exploring multiplatform possibilities.
 
-## 🚀 Featured Projects
+---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 32px;">
-  <div>
-    <ul>
-      <li><a href="https://github.com/ST10294145/AgriEnergyConnect.git">AgriEnergyConnect</a>: A way to connect agriculture sectors.</li>
-      <li><a href="https://github.com/ST10294145/Money-Lock.git">Money Lock</a>: A mobile budgetting app.</li>
-      <li><a href="https://github.com/ST10294145/NewKhumaloCraft.git">Khumalo Craft</a>: A website used to sell art work.</li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Animated GIF" width="220"/>
-  </div>
-</div>
+## 🚀 Top Projets I've contributed to:
+
+### 🪴 AgriEnergy Connect
+[![View Repository](https://img.shields.io/static/v1?label=Repo&message=View&color=blue)](https://github.com/ST10294145/AgriEnergyConnect.git">AgriEnergyConnect)
+> A way to connect agriculture sectors:
+
+---
+
+### 🔒 Money Lock
+[![View Repository](https://img.shields.io/static/v1?label=Repo&message=View&color=blue)](https://github.com/ST10294145/Money-Lock.git)
+> A mobile budgetting app:
+
+---
+
+### 🏛️ Khumalo Craft
+[![View Repository](https://img.shields.io/static/v1?label=Repo&message=View&color=blue)](https://github.com/ST10294145/NewKhumaloCraft.git)
+> A website wgere art work is sold:
+---
+</details>
+
 
 ## 💡 About Me
 - Always learning and experimenting with new technologies
