@@ -11,19 +11,19 @@
 ## 🚀 Top Projects I've Contributed To
 
 ### 🪴 AgriEnergy Connect
-[![View Repo](https://img.shields.io/badge/View-Repo-green?style=for-the-badge&logo=github)](https://github.com/ST10294145/AgriEnergyConnect)
+[![GitHub](https://img.shields.io/badge/-View%20on%20GitHub-000?style=for-the-badge&logo=github)](https://github.com/ST10294145/AgriEnergyConnect)
 > A way to connect agriculture sectors.
 
 ---
 
 ### 🔒 Money Lock
-[![View Repo](https://img.shields.io/badge/View-Repo-orange?style=for-the-badge&logo=github)](https://github.com/ST10294145/Money-Lock)
+[![GitHub](https://img.shields.io/badge/-View%20on%20GitHub-000?style=for-the-badge&logo=github)](https://github.com/ST10294145/Money-Lock)
 > A mobile budgeting app.
 
 ---
 
 ### 🏛️ Khumalo Craft
-[![View Repo](https://img.shields.io/badge/View-Repo-purple?style=for-the-badge&logo=github)](https://github.com/ST10294145/NewKhumaloCraft)
+[![GitHub](https://img.shields.io/badge/-View%20on%20GitHub-000?style=for-the-badge&logo=github)](https://github.com/ST10294145/NewKhumaloCraft)
 > A website where artwork is sold.
 
 
