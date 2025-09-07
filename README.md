@@ -24,7 +24,7 @@
 
 ### 🏛️ Khumalo Craft
 [![View Repository](https://img.shields.io/static/v1?label=Repo&message=View&color=blue)](https://github.com/ST10294145/NewKhumaloCraft.git)
-> A website wgere art work is sold:
+> A website where art work is sold:
 ---
 </details>
 
