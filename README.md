@@ -20,7 +20,7 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact&theme=radical)
  ![GitHub Streak](https://streak-stats.demolab.com?user=ST10294145&theme=radical)
 
-## 🗄️ Databases I've Worked With
+## 🗄️ Databases I've Worked With:
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/RoomDB-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="RoomDB"/>
 </p>
   
-## 💻 Programming Languages I've Worked With
+## 💻 Programming Languages I've Worked With:
 
 <p align="center">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
