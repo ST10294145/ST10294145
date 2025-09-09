@@ -13,7 +13,7 @@ My strengths lie in leadership, collaboration, and communication, which I have d
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ST10294145&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ST10294145&theme=radical)
 
 ## 🛠️ Top Skills
 - **C# & .NET Framework**: Experienced in MVC websites and backend development.
