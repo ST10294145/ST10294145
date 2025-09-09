@@ -11,9 +11,12 @@ I am a Computer Science student with a strong academic record, including 9 disti
 
 My strengths lie in leadership, collaboration, and communication, which I have demonstrated in both academic and extracurricular settings. I am an adaptable learner who thrives in fast-paced environments and is committed to continuous growth and innovation.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ST10294145&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ST10294145&theme=radical)
+
 
 ## 🛠️ Top Skills
 - **C# & .NET Framework**: Experienced in MVC websites and backend development.
