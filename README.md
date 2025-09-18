@@ -11,12 +11,15 @@ I am a Computer Science student with a strong academic record, including 9 disti
 
 My strengths lie in leadership, collaboration, and communication, which I have demonstrated in both academic and extracurricular settings. I am an adaptable learner who thrives in fast-paced environments and is committed to continuous growth and innovation.
 
-## Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact&theme=radical" alt="Top Langs" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=ST10294145&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
+## 📊 GitHub Stats
 
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact&theme=blue-white) 
+  
+  ![](https://nirzak-streak-stats.vercel.app/?user=st10294145&theme=transparent&hide_border=false) 
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ST10294145&show_icons=true&theme=blue-white)
+
+ ![Trophy](https://github-profile-trophy.vercel.app/?username=st10294145&theme=blue-white&no-follower=false)
 
 ## 🛠️ Top Skills
 - **C# & .NET Framework**: Experienced in MVC websites and backend development.
@@ -69,6 +72,11 @@ My strengths lie in leadership, collaboration, and communication, which I have d
   <img width="40" src="https://raw.githubusercontent.com/irontec/android-room-example/master/logo.png" alt="roomDB"/>
   <img width="40" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d8db7df3-eed9-477a-9352-1e0f34f31677/de5xpw6-2efaf2a1-29a1-48a5-942e-52579063ef55.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q4ZGI3ZGYzLWVlZDktNDc3YS05MzUyLTFlMGYzNGYzMTY3N1wvZGU1eHB3Ni0yZWZhZjJhMS0yOWExLTQ4YTUtOTQyZS01MjU3OTA2M2VmNTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sWwwUjRi7TZvW8Qkk_eWLqXxUrwEPGiJfUd0nQaBTnk" alt="mySQL"/>
 </p>
+
+<p align="center">
+   <img width="40" src="https://public.canva.site/logo/media/dfb96cc174513093cd6ed61489ccb750.svg" alt="Canva"/>
+</p>
+
 
 
 ---
