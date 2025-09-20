@@ -93,11 +93,6 @@ My strengths lie in leadership, collaboration, and communication, which I have d
 
 ---  
  
-  
-
-
-
----
 
 *Let’s connect and build something amazing!*
 
