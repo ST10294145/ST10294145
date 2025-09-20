@@ -47,8 +47,21 @@ My strengths lie in leadership, collaboration, and communication, which I have d
 
 ---
 
+## 📂 Mini Projects
 
-  
+<details>
+  <summary>🎮 ToyStore Project</summary>
+
+  [![GitHub](https://img.shields.io/badge/-View%20on%20GitHub-000?style=for-the-badge&logo=github)](https://github.com/ST10294145/ToyStore)
+
+  <details>
+    <summary>☕️ Coffee Project</summary>
+    
+  [![GitHub](https://img.shields.io/badge/-View%20on%20GitHub-4B2E05?style=for-the-badge&logo=github)](https://github.com/ST10294145/Shopping-Cart)
+
+
+</details>
+---  
  
   
 ## 💻 Languages and Tools I've Worked With:
