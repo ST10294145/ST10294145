@@ -41,7 +41,7 @@ My strengths lie in leadership, collaboration, and communication, which I have d
 
 <p align="center">
   <img width="40" src="https://andyleonard.blog/wp-content/uploads/2022/06/SSMS18logo.jpg" alt="SSMS"/>
-  <img width="40" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase"/>
+  <img width="40" src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck-512x646.png" alt="Firebase"/>
   <img width="40" src="https://brandlogos.net/wp-content/uploads/2022/07/microsoft_azure-logo_brandlogos.net_mlyt6-512x512.png" alt="Azure"/>
   <img width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkIyzuKbWXglpMjXFmRqCSJOaRfyswluGasA&s" alt="mongoDB"/>
   <img width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOVjTWaheo4E99cgYZ6y14tpsgHlm0VN8Hw&s" alt="Oracle"/>
