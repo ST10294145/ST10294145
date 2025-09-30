@@ -51,6 +51,7 @@ My strengths lie in leadership, collaboration, and communication, which I have d
 
 <p align="center">
    <img width="40" src="https://public.canva.site/logo/media/dfb96cc174513093cd6ed61489ccb750.svg" alt="Canva"/>
+  <img width="40" src="https://iconape.com/wp-content/png_logo_vector/payfast-logo.png" alt="PayFast"/>
 </p>
 
 ---
