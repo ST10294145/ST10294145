@@ -24,7 +24,7 @@ My strengths lie in leadership, collaboration, and communication, which I have d
 ## 🛠️ Top Skills
 - **C# & .NET Framework**: Experienced in MVC websites and backend development.
 - **Kotlin**: Building android mobile apps and exploring multiplatform possibilities.
-- **React**: Currently learning Frontend React. 
+- **React**: Currently learning React Frontend. 
 ---
 
 ## 💻 Languages and Tools I've Worked With:
