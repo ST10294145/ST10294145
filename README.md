@@ -11,22 +11,7 @@ I am a Computer Science student with a strong academic record, including 9 disti
 
 My strengths lie in leadership, collaboration, and communication, which I have demonstrated in both academic and extracurricular settings. I am an adaptable learner who thrives in fast-paced environments and is committed to continuous growth and innovation.
 
-## 📊 GitHub Stats
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact&theme=blue-white) 
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=st10294145&theme=transparent&hide_border=false) 
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ST10294145&show_icons=true&theme=blue-white)
-
- ![Trophy](https://github-profile-trophy.vercel.app/?username=st10294145&theme=blue-white&no-follower=false)
-
-## 🛠️ Top Skills
-- **C# & .NET Framework**: Experienced in MVC websites and backend development.
-- **Kotlin**: Building android mobile apps and exploring multiplatform possibilities.
-- **React**: Currently learning React Frontend. 
 ---
-
 ## 💻 Languages and Tools I've Worked With:
 
 <p align="center">
@@ -56,6 +41,24 @@ My strengths lie in leadership, collaboration, and communication, which I have d
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact&theme=blue-white) 
+  
+  ![](https://nirzak-streak-stats.vercel.app/?user=st10294145&theme=transparent&hide_border=false) 
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ST10294145&show_icons=true&theme=blue-white)
+
+ ![Trophy](https://github-profile-trophy.vercel.app/?username=st10294145&theme=blue-white&no-follower=false)
+ 
+
+## 🛠️ Top Skills
+- **C# & .NET Framework**: Experienced in MVC websites and backend development.
+- **Kotlin**: Building android mobile apps and exploring multiplatform possibilities.
+- **React**: Currently learning React Frontend. 
+---
+
 
 ## 🚀 Top Projects I've Contributed To
 
