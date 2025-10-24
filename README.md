@@ -44,11 +44,11 @@ My strengths lie in leadership, collaboration, and communication, which I have d
 
 ## 📊 GitHub Stats
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact&theme=blue-white) 
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st10294145&layout=compact&theme=blue-white) 
   
   ![](https://nirzak-streak-stats.vercel.app/?user=st10294145&theme=transparent&hide_border=false) 
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ST10294145&show_icons=true&theme=blue-white)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=st10294145&show_icons=true&theme=blue-white)
 
  ![Trophy](https://github-profile-trophy.vercel.app/?username=st10294145&theme=blue-white&no-follower=false)
  
