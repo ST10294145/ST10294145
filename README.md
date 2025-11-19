@@ -73,6 +73,12 @@ My strengths lie in leadership, collaboration, and communication, which I have d
 
 ---
 
+### ❓ QuizePulse
+[![GitHub](https://img.shields.io/badge/-View%20on%20GitHub-000?style=for-the-badge&logo=github)](https://github.com/ST10294145/QuizePulse.git)
+> A fun mobile quiz game.
+
+---
+
 ### 🔒 Money Lock
 [![GitHub](https://img.shields.io/badge/-View%20on%20GitHub-000?style=for-the-badge&logo=github)](https://github.com/ST10294145/Money-Lock)
 > A mobile budgeting app.
