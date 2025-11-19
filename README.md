@@ -63,7 +63,7 @@ My strengths lie in leadership, collaboration, and communication, which I have d
 
 ### 📚 Creche Management App
 [![GitHub](https://img.shields.io/badge/-View%20on%20GitHub-000?style=for-the-badge&logo=github)](https://github.com/ST10294145/CrecheManagement_App.git)
-> A way to bring creche schools into the digital error
+> A way to bring creche schools into the digital era.
 
 ---
 
@@ -87,7 +87,7 @@ My strengths lie in leadership, collaboration, and communication, which I have d
 
 ### 🏦 Credify
 [![GitHub](https://img.shields.io/badge/-View%20on%20GitHub-000?style=for-the-badge&logo=github)](https://github.com/ST10294145/Credify.git)
-> A React banking website .
+> A React banking website.
 
 ---
 
