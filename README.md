@@ -48,12 +48,7 @@ I am particularly interested in developing solutions that combine software engin
 
 [![Streak Stats](https://streak-stats.demolab.com?user=ST10294145&theme=transparent)](https://github.com/ST10294145)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&theme=transparent&layout=compact)](https://github.com/ST10294145)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ST10294145&show_icons=true&theme=blue-white)](https://github.com/ST10294145)
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ST10294145&theme=blue-white)](https://github.com/ST10294145)
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&layout=compact)
 
 ## 🛠️ Top Skills
 - **C# & .NET Framework**: Experienced in MVC websites and backend development.
