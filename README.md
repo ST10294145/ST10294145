@@ -46,14 +46,17 @@ I am particularly interested in developing solutions that combine software engin
 
 ## 📊 GitHub Stats
 
-  ![](https://nirzak-streak-stats.vercel.app/?user=st10294145&theme=transparent&hide_border=false) 
+<!-- Streak Stats -->
+https://nirzak-streak-stats.vercel.app/?user=ST10294145&theme=transparent&hide_border=false
 
- <!-- Top languages (compact) -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Top Languages -->
+https://github-readme-stats.vercel.app/api/top-langs/?username=ST10294145&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=st10294145&show_icons=true&theme=blue-white)
+<!-- GitHub Stats -->
+https://github-readme-stats.vercel.app/api?username=ST10294145&show_icons=true&theme=blue-white
 
- ![Trophy](https://github-profile-trophy.vercel.app/?username=st10294145&theme=blue-white&no-follower=false)
+<!-- GitHub Trophy -->
+https://github-profile-trophy.vercel.app/?username=ST10294145&theme=blue-white&no-follower=false
  
 
 ## 🛠️ Top Skills
