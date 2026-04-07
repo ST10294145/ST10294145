@@ -7,9 +7,11 @@
 🎓 **Student** passionate about building real-world solutions using modern programming languages and frameworks.
 
 ## 💡 About Me
-I am a Computer Science student with a strong academic record, including 11 distinctions, and a proven track record of leadership through programs such as Dale Carnegie and the JA Company Top 10 recognition. I excel at bridging technical expertise with business-oriented thinking, enabling me to contribute to product development, teamwork, and problem-solving in dynamic environments.
+I am a Computer Science graduate currently pursuing a Postgraduate Diploma in Data Analytics, with a strong academic record including 11 distinctions.
 
-My strengths lie in leadership, collaboration, and communication, which I have demonstrated in both academic and extracurricular settings. I am an adaptable learner who thrives in fast-paced environments and is committed to continuous growth and innovation.
+My experience spans software development and data-focused work, including Java, C#, SQL, and .NET web development, as well as Android app development using Kotlin. I am currently expanding my skills in React and data analytics, focusing on building practical, real-world projects.
+
+I am particularly interested in developing solutions that combine software engineering with data-driven insights. I enjoy working on projects that challenge my problem-solving abilities and allow me to continuously improve both my technical and analytical skills.
 
 ---
 ## 💻 Languages and Tools I've Worked With:
