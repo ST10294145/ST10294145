@@ -38,7 +38,7 @@ I am particularly interested in developing solutions that combine software engin
 </p>
 
 <p align="center">
-   <img width="40" src="https://public.canva.site/logo/media/dfb96cc174513093cd6ed61489ccb750.svg" alt="Canva"/>
+   <img width="40" src="https://brandeps.com/logo/c/canva-02" alt="Canva"/>
   <img width="40" src="https://iconape.com/wp-content/png_logo_vector/payfast-logo.png" alt="PayFast"/>
 </p>
 
